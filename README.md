@@ -1,4 +1,4 @@
-## [vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) Starter
+## [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) Starter - fork of [react-ts-starter](https://github.com/CodingGarden/react-ts-starter)
 
 This setup includes:
 
@@ -8,13 +8,13 @@ This setup includes:
 - [vitest](https://vitest.dev/), [jsdom](https://github.com/jsdom/jsdom),
   [@testing-library](https://testing-library.com/)
 - [react-router v6](https://reactrouter.com/en/main)
+- [tailwind](https://tailwindcss.com)
+- [husky](https://github.com/typicode/husky)
+- [Storybook](https://storybook.js.org/)
 
 # References
 
 - https://markus.oberlehner.net/blog/using-testing-library-jest-dom-with-vitest/
 - https://testing-library.com/docs/queries/about#priority
 - https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
-
-# Credits
-
-- [w3cj](https://github.com/CodingGarden/react-ts-starter)
+- https://github.com/CodingGarden
