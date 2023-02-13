@@ -11,6 +11,7 @@ This setup includes:
 - [tailwind](https://tailwindcss.com)
 - [husky](https://github.com/typicode/husky)
 - [Storybook](https://storybook.js.org/)
+- Dark/Light theme context
 
 # References
 
