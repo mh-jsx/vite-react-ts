@@ -1,0 +1,19 @@
+
+# configs 
+tailwind.config.cjs
+tsconfig.json
+tsconfig.node.json
+postcss.config.cjs
+
+# stories
+*.stories.mdx
+*.stories.tsx
+
+node_modules
+dist
+coverage
+build
+public
+storybook-static
+
+
